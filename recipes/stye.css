@@ -1,0 +1,13 @@
+.unorder-list {
+    color: white;
+    background-color: red;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.burger-text {
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+}
